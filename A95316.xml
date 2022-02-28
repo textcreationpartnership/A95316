@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True state of the case of liberty of conscience in the common-wealth of England. Together with a true narrative of the cause, and manner, of Mr. John Biddle's sufferings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95316</idno>
+            <idno type="STC">Wing T3113</idno>
+            <idno type="STC">Thomason E848_12</idno>
+            <idno type="STC">ESTC R202157</idno>
+            <idno type="STC">ESTC R207322</idno>
+            <idno type="EEBO-CITATION">99866379</idno>
+            <idno type="PROQUEST">99866379</idno>
+            <idno type="VID">168225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E848[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True state of the case of liberty of conscience in the common-wealth of England. Together with a true narrative of the cause, and manner, of Mr. John Biddle's sufferings.</title>
+               </titleStmt>
+               <extent>[2], 12, [2]   </extent>
+               <publicationStmt>
+                  <publisher>[Printed for Richard Moone, at the Seven Stars in Paul's church-yard],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year, 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "July 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Biddle, John, 1615-1662 --  Early works to 1800.</term>
+               <term>Liberty of conscience --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168225:1" rendition="simple:additions"/>
+            <p>A TRUE STATE OF THE CASE OF Liberty of Conſcience in the Common-wealth of ENGLAND.</p>
+            <p>Together with a true NARRATIVE OF The <hi>Cauſe,</hi> and <hi>Manner,</hi> of Mr. <hi>John Biddle</hi>'s Sufferings.</p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168225:2"/>
+            <pb n="1" facs="tcp:168225:2"/>
+            <head>A true State of the Caſe, &amp;c.</head>
+            <p>THough it is to be confeſſed, as his Highneſs ſaith in his firſt Speech to the laſt Parliament, That Liber<g ref="char:EOLhyphen"/>ty of Conſcience, and Liberty of Subjects are of<g ref="char:EOLhyphen"/>tentimes abuſed for the patronizing of Villanies; yet let it be ſaid alſo (as he in the ſame place) That theſe two are as glorious things as can be contended for; and that who<g ref="char:EOLhyphen"/>ſoever abuſeth Liberty (as in the Epiſtle to the Reader prefixt to the Speech of the Counſellor to the King of <hi>Scots, James</hi> 5. which his Highneſs cauſed to be printed) turning it into Licentiouſnes, ſhall bear his own ſhame, as he that ſins, becauſe Grace abounds. True Liberty nor Grace are the leſs ſo, becauſe abuſed; nor the more to be ſtumbled at. And becauſe Liberty of Conſcience is pleaded in op<g ref="char:EOLhyphen"/>poſition ſomtimes to Civil Government, and for the ſhelter of wicked and diſſolute perſons; that yet there may not be a Caſe, and that in ſuch a caſe it may not be lawful to plead, and that ſuch pleadings ſhould not enter into the hearts of all thoſe that have any true affection to Liberty, it doth not at all follow. And if in the Caſe here preſen<g ref="char:EOLhyphen"/>ted to thy view, this Liberty be not rightly pleaded (as being highly violated) we ſhall utterly deſpair of ever finding any. Certainly we do but delude and deceive men, if while we cry out for Liberty of Conſcience, we only intend Liberty to others, to profeſs that whereof we are at preſent doubtful, and not that which we maturely be<g ref="char:EOLhyphen"/>lieve to be abſolutely Erronious: Provided that the per<g ref="char:EOLhyphen"/>ſons ſo erring, either in Doctrine, Diſcipline, or Worſhip, do profeſs Faith in God by Jeſus Chriſt, and abuſe not the
+<pb n="2" facs="tcp:168225:3"/>Liberty to the Civil injury of others, and to the actual di<g ref="char:EOLhyphen"/>ſturbance of the publick peace on their parts, nor profeſs and exerciſe Popery and Prelacy, nor under the profeſſion of Chriſt hold forth and practiſe licentionſneſs. Theſe things premiſed, we proceed to the Caſe.</p>
+            <p>A Member of that Society, whereof Mr. <hi>John Griffin</hi> is Teacher, differing from the ſaid Mr. <hi>Griffin</hi> in ſome Opinions touching the Deity of Jeſus Chriſt, the Son of the moſt high God, <hi>viz. Doubting, or Denying that he was in<g ref="char:EOLhyphen"/>deed that moſt high God, of whom he is the Son:</hi> And having ſome Diſcourſe about the ſame with Mr. <hi>Griffin</hi> in the ſaid Society, being threatned with a Warrant from his High<g ref="char:EOLhyphen"/>neſs, and the Conſtable being ſent for to ſuppreſs him; at laſt Mr. <hi>Griffin</hi> thinking his Victory would not be great, in overcoming this yong man, and that it would tend more to the eſtabliſhing the Truth of what he maintained, if he ſhould in a publick Diſpute vanquiſh by Argument Mr. <hi>John Biddle,</hi> whom he accompted the chief, and ableſt Oppugner of the ſupream Divinity of Jeſus Chriſt; He Challengeth to Diſpute at <hi>Pauls</hi> in the <hi>Stone-Chappel</hi> with Mr. <hi>John Biddle,</hi> and gives notice to the Congregation accordingly: Whereupon notice was given to Mr. <hi>Biddle;</hi> who knowing the unlearnedneſs and unskilfulneſs of his Opponent, was very unwilling to Anſwer him: but the ſecond Challenge being urged by the yong man, and other friend, Mr. <hi>Biddle</hi> promiſed a Meeting, which came to paſs accordingly on <hi>Thurſday</hi> the 28 of <hi>June</hi> laſt, at the place aforeſaid; where the two Diſputants being placed one againſt the other, the Queſtion was ſtated in theſe terms, <hi>Whether Jeſus Chriſt be the moſt High, or Almighty GOD?</hi> Which Queſtion being ſtated, Mr. <hi>Griffin</hi> undertook to prove the Affirmative, but required firſt to know if any man did deny it; which with how much ingenuity it was done on his part, conſider<g ref="char:EOLhyphen"/>ing that was the very buſineſs they came about, and the de<g ref="char:EOLhyphen"/>nial thereof was of ſo great danger and damage, as by the ſequel appears, let ſober men judge: whereupon Mr. <hi>Biddle,</hi> according to the manner of a Diſputant, did openly Deny.</p>
+            <p>
+               <pb n="3" facs="tcp:168225:3"/>We are not here to give an accompt of that Diſpute; on<g ref="char:EOLhyphen"/>ly in the Concluſion, Mr. <hi>Griffin</hi> being weary, the further Diſpute of this Queſtion was referred to the <hi>Thurſday</hi> fol<g ref="char:EOLhyphen"/>lowing; but before that time, to wit, on <hi>Wedneſday</hi> laſt, the <hi>Marſhal</hi> of the City, with the Conſtable, were ſent with a Warrant for Mr. <hi>Biddle,</hi> which follows in theſe words; or to this purpoſe:
+<q>By an Order of the Council, dated <hi>July</hi> the <hi>3<hi rend="sup">d</hi>.</hi> You are forthwith to apprehend the body of <hi>John Biddle,</hi> and to carry him before ſome Juſtice of Peace to Anſwer to ſuch mat<g ref="char:EOLhyphen"/>ters as ſhall be objected by one Mr. <hi>Brookbank,</hi> &amp;c. <hi>Signed by</hi> Ch. P. <hi>L. M. of the City of</hi> London, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Whereupon forthwith Mr. <hi>Biddle</hi> was carried before Al<g ref="char:EOLhyphen"/>derman <hi>Andrews,</hi> who without any Examination or Mit<g ref="char:EOLhyphen"/>timus, ſave a verbal one, Commanded Mr. <hi>Biddle</hi> to the <hi>Poultry-Compter-Priſon,</hi> where he now abides. In the evening of the day (this Commitment being done at 10 of the Clock in the morning) about 9 at night comes a Mit<g ref="char:EOLhyphen"/>timus from the Lord Major; A Copy whereof followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <p>London ſſ. <hi>THeſe are in purſuance of an Order of the Coun<g ref="char:EOLhyphen"/>cil of the</hi> 3 <hi>of</hi> July <hi>inſtant, to require you to Receive and retain in your Cuſtody the body of</hi> John Biddle <hi>until further Order, and this ſhall be your Warrant.</hi>
+                        </p>
+                        <closer>
+                           <signed>C. P. M.</signed>
+                           <dateline>Dated <date>
+                                 <hi>the 4th. day of</hi> July, 1655.</date>
+                           </dateline>
+                        </closer>
+                        <trailer>To the Keeper of the <hi>Poultry-Compter,</hi> London.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Here in the firſt place you have a man committed to pri<g ref="char:EOLhyphen"/>ſon by the bare word of a Juſtice of Peace. Secondly, You have him detain'd by vertue of an Order that expreſſeth no Crime: there is indeed mention made of an Order of the Council, but what that is, who knows! or whether that Or<g ref="char:EOLhyphen"/>der extend to the impriſoning of Mr. <hi>Biddle,</hi> or only to the ſuppreſſing of the intended Diſpute, which might have been done with a word! However, Mr. <hi>Biddle</hi> continues a priſo<g ref="char:EOLhyphen"/>ner, and cannot be Bayl'd; yea, it is intended, as was inti<g ref="char:EOLhyphen"/>mated by the Lord Major, to bring him to Trial at the next Seſſions upon the Ordinance made in 1648 againſt Blaſ<g ref="char:EOLhyphen"/>phemy and Hereſie.</p>
+            <p>
+               <pb n="4" facs="tcp:168225:4"/>Having given thus a very ſhort account of Mr. <hi>Biddle</hi>'s im<g ref="char:EOLhyphen"/>priſonment and ſuffering, it will now be neceſſary to ſay ſomething concerning the man himſelf, his faith and pra<g ref="char:EOLhyphen"/>ctice, that it may appear whether he be a ſubject capable of the Liberty promiſed in the Inſtrument of Govern<g ref="char:EOLhyphen"/>ment. Firſt, for his Faith, we may refer the Reader to the <hi>Catechiſm</hi> ſet forth under his Name, wherein he Aſſerts the plain Scripture without any Expoſition, ſave what ap<g ref="char:EOLhyphen"/>pears by the Queſtions; wherein, though you finde many things contrary to the Opinions of the preſent Miniſters, yet that doth not prove his Opinions to be Erronious, any more than the Opinions of <hi>Luther,</hi> a ſingle perſon, againſt the Judgement of ſo many thouſands of the Learned Cler<g ref="char:EOLhyphen"/>gie that condemned him. And indeed, the authority of Scri<g ref="char:EOLhyphen"/>pture is of ſo great account with him, that however he may be traduc'd for one that will not believe any more than his ſhallow reaſon can comprehend; yet we are aſſured that he doth conſtantly profeſs, That it is ſufficient to him for Faith, if it be either in plain words aſſerted in Scripture, or deduc'd thence by good and neceſſary conſequence: in<g ref="char:EOLhyphen"/>deed he hath for many yeers given himſelf to the diligent reading and ſtudy of the Scriptures, with Prayer to God through Chriſt for direction and guidance therein; yet he cannot ſee ſufficient ground to aſſent to many Conſequen<g ref="char:EOLhyphen"/>ces that are generally received, and reputed Orthodox.</p>
+            <p>Thus though with <hi>Paul</hi> (<hi>Acts</hi> 24.14, 15.) he worſhips God, and believes, <hi>according to the way which ſome men call Hereſies;</hi> yet our conſciences can bear him witneſs, that he <hi>confeſſeth with his mouth,</hi> and his converſation teſtifies to us that he <hi>believes in his heart</hi> the Lord Jeſus to be <hi>his Lord, and his God,</hi> Joh. 20.28. his <hi>Saviour,</hi> Act. 5.31. and <hi>by him doth believe in God, who raiſed him from the dead, and gave him glory,</hi> 1 Pet. 1.21. having ſet him <hi>at his right hand; an<g ref="char:EOLhyphen"/>gels, and authorities, and powers, being made ſubject to him:</hi> and that <hi>he is made unto us of God, wiſdom, righteouſneſs, ſan<g ref="char:EOLhyphen"/>ctification, and redemption,</hi> 1 Cor. 3.30. That he is <hi>the onely begotten Son of God,</hi> and to be <hi>honoured as the Father,</hi> Joh. 5.23. <hi>That it is he which is ordained of God to be Judge of
+<pb n="5" facs="tcp:168225:4"/>quick and dead,</hi> Acts 10.42. That <hi>he is the author of eternal life to all thoſe that obey him:</hi> That <hi>there is no other name given under heaven among men, whereby we muſt be ſaved:</hi> That his blood is <hi>the blood of the new Covenant, that is ſhed for many, for remiſſion of ſins,</hi> Matth. 26.28. That he is <hi>perfectly able to ſave them that come unto God by him.</hi>
+            </p>
+            <p>And however his opinion concerning the holy Ghoſt hath been apprehended, it is yet moſt certain, that he doth not deny him to be the third Perſon of the ſacred Trinity; nor his mighty power and gifts appearing in ſignes and mi<g ref="char:EOLhyphen"/>racles, bearing witneſs to the truth of the Goſpel, and the Miniſters thereof, <hi>Heb.</hi> 2.3, 4. but beleiveth the ſame; and that the Holy Scriptures are the dictates and inſpirati<g ref="char:EOLhyphen"/>ons of that bleſſed Spirit; according to which he tryes all Doctrines, and would have others to do the ſame. Contra<g ref="char:EOLhyphen"/>ry to theſe things he teacheth not, therefore can by no means be guilty of not believing in God through Jeſus Chriſt, or of bringing in damnable Hereſies, denying the Lord that bought him.</p>
+            <p>As for his Converſation, we have had intimate knowledg thereof for ſome yeers: but we think he needs not us, but may appeal even to his enemies, for his vindication therein. Let thoſe that knew him at <hi>Oxford,</hi> for the ſpace of 7 or 8 yeers; thoſe that knew him at <hi>Glouceſter</hi> about 3 yeers; thoſe that knew him at <hi>London</hi> theſe 8 or 9 yeers, (moſt of which time he hath been a priſoner) ſpeak what they know of un<g ref="char:EOLhyphen"/>righteouſneſs, uncleanneſs, unpeaceableneſs, malice, pride, profaneſs, drunkenneſs, or any the like iniquity, which they can accuſe him of. Or hath he, (as the maner of Hereticks is, 2 <hi>Pet.</hi> 2.3.) <hi>through covetouſneſs with feigned words made merchandiſe of any?</hi> Hath he not herein walked upon ſuch true grounds of Chriſtian Self-denial, that none in the world can ſtand more clear and blameleſs herein alſo? he having ſhun'd to make any of thoſe Advantages which are eaſily made in the world by men of his Parts and Breeding, Lan<g ref="char:EOLhyphen"/>guages and Learning; that (if any known to us) he may truly ſay as the Apoſtle, <hi>I have coveted no mans ſilver, or gold, or apparel: yea, ye your ſelves know, that theſe hands
+<pb n="6" facs="tcp:168225:5"/>have miniſtred to my neceſſities;</hi> he ever accompting it <hi>a more bleſſed thing to give, than receive.</hi>
+            </p>
+            <p>And that he ſhould, in holding or publiſhing any Opini<g ref="char:EOLhyphen"/>ons in Religion, wilfully ſin, doing the ſame againſt his own Conſcience and Judgement, and ſo ſhould fall under that Character of an Heretick, to be <hi>condemned of himſelf,</hi> Tit. 3.10, 11. we cannot imagine that his moſt zealous enemies do ſuppoſe, much leſs charge him with ſuch groſs wicked<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>However for our ſelves that know him, we crave leave upon knowledge to affirm, that he lives conſtantly in ſuch a filial fear of God, with ſo much watchfulneſs over his wayes, and lays ſo great a wait upon wilful ſin, that it is impoſſible he can be guilty of ſo abhorrid an evil; being ſo far from <hi>ſelf-condemning,</hi> that we are perſwaded he would not hold, or publiſh any Opinion or Doctrine which to his underſtanding he did not judge to have cleer grounds in ho<g ref="char:EOLhyphen"/>ly Scripture, though thereby he might gain the whole world: Such confidence have thoſe that know him of his cleerneſs in thoſe particulars of wilful ſinning, or ſelf-con<g ref="char:EOLhyphen"/>demning.</p>
+            <p>And indeed, ſince he hath found cauſe to differ in his Judgement from the multitude, he hath not only diligent<g ref="char:EOLhyphen"/>ly examined the Scriptures himſelf, but alſo hath deſired and ſought the Knowledge and Diſcourſe of any Learned and good man he could hear of, for his further information: But though he hath Diſcourſed with many, yet never recei<g ref="char:EOLhyphen"/>ved he an Admonition from any, to change his Judgement or Opinion.</p>
+            <p>So that theſe things well weighed in the true balance of Scripture truth, and true Chriſtian charity, we hope it will appear, though he may erre in ſome part of his Judgement, yet can he not by any means be eſteemed leſs than a Be<g ref="char:EOLhyphen"/>liever in God through Jeſus Chriſt, and one that exerciſeth himſelf to have alwayes a good Conſcience, void of offence toward God and men, having hope of the Reſurrection both of the juſt and unjuſt; and ſo not an Heretick, the Characters of ſuch an one not at all appearing in him: and
+<pb n="7" facs="tcp:168225:5"/>much leſs a Blaſphemer, having never been known to be either a Curſer, or Swearer, or Rayler againſt acknow<g ref="char:EOLhyphen"/>ledged Truths. Inſomuch that were he in a true un-erring Church of Chriſt, they could not ſo much as excommunicate him out of their fellowſhip as an Heretick, much leſs per<g ref="char:EOLhyphen"/>ſecute him to impriſonment or other puniſhment; it cleer<g ref="char:EOLhyphen"/>ly appearing, that if he be miſtaken in any thing (as who in ſome meaſure is not?) it is neceſſarily from the intangle<g ref="char:EOLhyphen"/>ment of his underſtanding, and not in the leaſt of wilful<g ref="char:EOLhyphen"/>neſs. Nor could we ever perceive, but that even in thoſe things wherein he moſt differed from the ſtream of inter<g ref="char:EOLhyphen"/>preters, in thoſe high points of <hi>Trinity in Unity, and Unity in Trinity,</hi> that he contended therein out of curioſity, or vain-glory, but conſcientiouſly and to the cleering of the Truth to him ſo appearing, and vindication of the honor of God therein, which we believe to be the ſupream end of all his endeavors. And though he ſhould ſomewhat miſtake the way, yet doubtleſ, God, who often accepteth the will for the deed, will look upon it as an Error of his zeal and love, and receive him to his mercy. And we truſt all well-minded people will receive much ſatisfaction herein.</p>
+            <p>And as we have undertaken (as being moved in Con<g ref="char:EOLhyphen"/>ſcience thereto) to vindicate Mr. <hi>Biddle</hi> from any Hereſie in Faith, or licentiouſneſs in Practice, that might render him juſtly uncapable of Liberty of Conſcience promiſed in the Government; ſo in particular we can boldly defend him againſt the Charge of abuſing his Liberty to the Civil injury of others, or any manner of way endeavoring the diſturbance of the publick Peace or Civil Government up<g ref="char:EOLhyphen"/>on any pretence. Doth he not in the 17 Chapter of his <hi>Catechiſm</hi> deliver his Judgement for ſubjection to Govern<g ref="char:EOLhyphen"/>ment, and paying Tribute even for Conſcience ſake? What needs more, ſeeing all that know him, know his practice to be conformable thereunto?</p>
+            <p>
+               <pb n="8" facs="tcp:168225:6"/>As for Popery, or Prelacy, which may exclude from Li<g ref="char:EOLhyphen"/>berty, we think we need ſay nothing; ſeeing his enemies in Religion, in theſe things oppoſed by him, joyn hands with Papiſts and Prelates.</p>
+            <p>And the truth is, He is much encouraged in his Opini<g ref="char:EOLhyphen"/>ons, in that they give him irreſiſtible weapons againſt Po<g ref="char:EOLhyphen"/>pery and Prelacy, whereas others are daily wounded in their encounters with them.</p>
+            <p>What though it hath been frequent for Parliaments, Kings, and Councels, by inſtigation and miſ-information, to exerciſe their Authority in matters of Religion? yet if it pleaſe you to examine the Records of thoſe their pro<g ref="char:EOLhyphen"/>ceedings, whether in relation to the Opinions that have been condemned or approved; or in relation to the per<g ref="char:EOLhyphen"/>ſons, that have ſuffered Impriſonments, Baniſhments, Deaths, with all kinds of Torments, by occaſion of ſuch their proceedings, all the long times of Popery be<g ref="char:EOLhyphen"/>fore Queen <hi>Maries</hi> days, but eſpecially the whole time of her Reign; will (we conceive) afford nothing but matter of weeping and lamentation.</p>
+            <p>Throughout all which times, the groſſeſt Errors paſſed for the moſt Orthodox Truths; and the Opinions and per<g ref="char:EOLhyphen"/>ſons then ſuppreſſed and perſecuted, which latter times have found to be the moſt approved Truths; and the per<g ref="char:EOLhyphen"/>ſons ſo ſuffering, have been accounted worthy of the names of Martyrs.</p>
+            <p>And though the times of Epiſcopacy ſeemed more re<g ref="char:EOLhyphen"/>fined in their Opinions, and leſs violent in their Perſecu<g ref="char:EOLhyphen"/>tions: yet if the cruel deaths of Mr. <hi>Greenwood, Penry,</hi> and <hi>Barrow,</hi> and alſo of ſome Anabaptiſts, and the bar<g ref="char:EOLhyphen"/>barous uſage of Mr. <hi>Udall,</hi> be ſeriouſly conſidered, put a black mark upon thoſe times alſo.</p>
+            <p>And all the groſs abuſes practiſed againſt the Puritans, and Nonconformiſts (as they were called) throughout King <hi>James</hi> and King <hi>Charles</hi> their times, were all impo<g ref="char:EOLhyphen"/>ſed
+<pb n="9" facs="tcp:168225:6"/>by Authority of Acts of Parliament, and found no check until that barbarous cruelty exerciſed upon Mr <hi>Burton, Prynne,</hi> and <hi>Baſtwick,</hi> which opened the underſtandings of ſome worthy and Conſcientious Patriots, ſo far, as to diſcern, that as Fathers, General Councels, Convocations, Synods, Aſſem<g ref="char:EOLhyphen"/>blies, and all of them in their ſeveral times erred: Even ſo Parliaments and Kings, through a miſtaken Zeal, had frequent<g ref="char:EOLhyphen"/>ly countenanced the groſſeſt Errors, ſuppreſſed the Truth, and brought abundance of miſery upon the moſt peaceable, quiet, meek, and conſcientious people of the Land.</p>
+            <p>And which occaſionally through Gods mercy gave the firſt riſe to the juſt Liberty of Conſcience lately enjoyed: for although the Parliament, ſoon after they had relieved thoſe Sufferers, were by the Aſſembly then ſitting, induced to make Orders and Ordinances, to the enſnaring and intangling Con<g ref="char:EOLhyphen"/>ſcientious people in the exerciſe of their juſt Liber<g ref="char:EOLhyphen"/>ties, under the notion of puniſhing Hereticks, Schiſmaticks, and Blaſphemers; yet through the pious interpoſition of the moſt Conſcientious part of the Parliament and Army, that returned to the greater Freedom, ending in the Repeal of all Laws and Ordinances of Parliament formerly made for Compulſion and Moleſtation in matters of Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>And it was no ſmal ſatisfaction to all conſcien<g ref="char:EOLhyphen"/>tious, peaceable, and well minded people, to ſee the ſame juſt Liberty ratified and confirmed by the Lord Protector, in the <hi>Inſtrument of Government, Article</hi> 35, 36, 37, 38. and maintaining and defen<g ref="char:EOLhyphen"/>ding the Government againſt all Oppoſers, upon this account, that therein was a proviſion for dif<g ref="char:EOLhyphen"/>fering Conſciences: <hi>Liberty of Conſcience,</hi> (ſaith
+<pb n="10" facs="tcp:168225:7"/>he in his Second Speech to the laſt Parliament) <hi>is a National Right; and he that would have it, ought to give it. Every Sect ſaith, Oh! give me Liberty: but give it him, and to his power, he will not yield it to any body elſe. Where is our ingenuity!</hi> And we hear, that the Argument he uſes to make appear the Neceſſity of taking upon him this Government, is, the main<g ref="char:EOLhyphen"/>tainance of Liberty of Conſcience; and that he doth often boaſt to thoſe that are offended at the Government, That <hi>no man in</hi> England, Scotland, <hi>or</hi> Ireland, <hi>ſuffers meerly for Conſcience ſake.</hi>
+            </p>
+            <p>Shall this truly-Religious, and Conſcientious man, Mr. <hi>John Biddle,</hi> be the only man excepted? Is he not every way as capable as any man that en<g ref="char:EOLhyphen"/>joyes it? Shall the Laws &amp; Ordinances againſt Li<g ref="char:EOLhyphen"/>berty be Repealed and Null'd, and he notwithſtan<g ref="char:EOLhyphen"/>ding ſuffer by vertue of ſuch Laws; or rather, a<g ref="char:EOLhyphen"/>gainſt all Laws? <hi>Qui uni facit injuriam, multis mi<g ref="char:EOLhyphen"/>natur:</hi> if Mr. <hi>Biddle</hi> ſuffer for Conſcience ſake, let no man, differing from the multitude, think to go free; nor let thoſe that now, by reaſon of their con<g ref="char:EOLhyphen"/>ſent with thoſe in power, enjoy preſent Liberty, dream of keeping it, except they reſolve to change with the changeable Spirits of men, or the viciſſi<g ref="char:EOLhyphen"/>tude of times. Hiſtory doth afford us, long ago, an Experiment of this nature, in the matter of the <hi>Athanaſians</hi> and <hi>Arians.</hi>
+            </p>
+            <p>Neither doth Liberty at preſent exempt from Perſecution in after times. Who knows whether God is trying us whether we are ſincere for Liber<g ref="char:EOLhyphen"/>ty or no? Remember, we beſeech you, <hi>Its better
+<pb n="11" facs="tcp:168225:7"/>that a thouſand Erronious perſons be tolerated, than one good man be perſecuted.</hi> God will required that at your hands. Be throughly aſſured you do not perſecute a conſcientious man; for <hi>he that doubteth is damned, Rom.</hi> 14.23. and when you have attained the hight of Confidence, of the righteouſneſs and neceſſity of your Perſecution, then tell us whether your pre<g ref="char:EOLhyphen"/>deceſſors have not been miſtaken in the like Confi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>And for our Governors, if this Paper ſhall pro<g ref="char:EOLhyphen"/>videntially fall into any of their hands, let them not henceforth tell us we have Liberty of Conſci<g ref="char:EOLhyphen"/>ence <hi>by a Law,</hi> ſeeing it is <hi>at Pleaſure</hi> given to ſome, and taken away from others that are equally capable thereof.</p>
+            <p>And if we have not that, what (we pray) have we, to countervail the expence of ſo much Blood and Treaſure, which will, at the hands of ſome, be required?</p>
+            <p>Let the Jury-men and Judges into whoſe hands this mans life may poſſibly be caſt, conſider, That it is far more eaſie and poſſible for them to erre in ſtretching out their hands againſt the life of a poor ſinful man, that is void of the power of Miracles and Wonders to confirm his Doctrine by, and is only guarded by the evidence of the holy Scrip<g ref="char:EOLhyphen"/>tures, then it was for the whole Order of Prieſts and Nation of the Jews to miſtake in Crucifying and by wicked hands ſlaying the immaculate Son of God, <hi>A man approved by God among them, by Miracles, Wonders, and Signs, which God did by him in the midſt of them.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:168225:8"/>Let them remember what Chriſt himſelf their Lord ſaith concerning ſuch as believe not his Do<g ref="char:EOLhyphen"/>ctrine, <hi>John</hi> 12. <hi>If any man hear my words, and believe not, I judge him not; for I came not to judge the world, but to ſave the world: He that rejecteth me, and receiveth not my words, hath one that judgeth him; the words that I have ſpoken, the ſame ſhall judge him at the laſt day.</hi>
+            </p>
+            <p>And when the <hi>Sadduces</hi> denied the Reſurrection, which is ſo groſs an Error, that it taketh away all Piety; yet did not our Savior declare that they de<g ref="char:EOLhyphen"/>ſerved to be impriſoned, or otherwiſe puniſhed by the Civil Magiſtrate; but only dealt with them by powerful Arguments, for their Conviction: there<g ref="char:EOLhyphen"/>by leaving an Example to them that are his fol<g ref="char:EOLhyphen"/>lowers, how they ought to behave themſelves to<g ref="char:EOLhyphen"/>wards ſuch as they conceive to be miſtaken even in the higheſt points of Religion. Nor was he plea<g ref="char:EOLhyphen"/>ſed (<hi>Matth.</hi> 13.) that the Tares ſhould be plucked up and burned, although they were known to be Tares: How much leſs then would he have them plucked up, and burned, or deſtroyed, who do by their Fruits ſhew, if not evidently, yet with pro<g ref="char:EOLhyphen"/>bability, that they are Wheat, and no Tares?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:168225:8"/>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Moone,</hi> at the <hi>Seven Stars</hi> in <hi>Paul</hi>'s Church-yard, 1655.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
